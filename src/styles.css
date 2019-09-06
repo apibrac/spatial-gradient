@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.square {
+  width: 300px;
+  height: 300px;
+  border-radius: 10px;
+  background: linear-gradient(166deg, rgba(0, 77, 122, 1), rgba(0, 0, 0, 0) 70%),
+    linear-gradient(300deg, rgba(168, 235, 18, 1), rgba(0, 0, 0, 0) 70%),
+    linear-gradient(25deg, rgba(220, 20, 60, 1), rgba(0, 0, 0, 0) 70%);
+}
